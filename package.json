@@ -1,0 +1,15 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "Randy Ngo's Portfolio",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.9.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Randy Ngo",
+  "license": "MIT"
+}
