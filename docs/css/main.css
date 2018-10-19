@@ -195,6 +195,10 @@ main {
       opacity: 0.5;
       border-color: #eece1a;
       transition: all 0.5s ease-out; }
+  .projects .description {
+    text-align: center;
+    color: #eece1a;
+    font-size: 1.3rem; }
 
 .boxes {
   display: flex;
