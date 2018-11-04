@@ -33,3 +33,14 @@ function toggleMenu () {
     }
 }
 
+function cutoff (str) {
+    if (str.length > 40) {
+        return str.subString(0, 40) + '...';
+    }
+    return str;
+}
+
+function readmore () {
+
+}
+
